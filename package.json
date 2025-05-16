@@ -1,0 +1,18 @@
+{
+  "name": "vtable-list-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@visactor/vtable": "1.5.6",
+    "@visactor/vtable-gantt": "1.6.0-alpha.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
